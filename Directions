@@ -1,0 +1,8 @@
+Download Zmain.cpp Zombies.cpp Zombies.h Makefile and zombies.txt
+place all in one folder
+in Terminal
+navigate to folder with files
+type "make" into command line
+when finished, type ./Zombie_Game zombies.txt
+Zombie_Game is the executable
+zombies.txt is the command line at index 1
