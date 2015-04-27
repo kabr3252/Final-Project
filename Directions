@@ -6,3 +6,33 @@ type "make" into command line
 when finished, type ./Zombie_Game zombies.txt
 Zombie_Game is the executable
 zombies.txt is the command line at index 1
+
+
+
+
+For the game
+
+The cure is in the Hospital
+take it to the Campus to win
+the car is at the Car Dealership
+the car needs the battery from the Country Club to work
+here is each area's index and the items in that area
+* means there are zombies there you need to fight
+choosing "n" (hidden) from the "w r h" fight screen allows you to bypass fight (for troubleshooting)
+
+
+0 Church  //Axe
+1 *Bar //jgc, liquor, shattered bottle
+2 Gym //Grenade, ammo
+3 *Car Dealership //Pickup Truck
+4 *Frat House //Pledge Paddle
+5 *Mall //healthpk
+6 *Whole Foods //repair
+7 *Theater  //Ammo
+8 *Restaurant    //Gun, liquor
+9 *Country Club  //Car Battery
+10 *Campus  //fuel
+11 *Hospital  //Cure, ammo
+12 Lake     //Grenade
+13 *Prison  //rottweiler
+14 Highway  //fuel
